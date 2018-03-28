@@ -135,7 +135,7 @@ for i, pix in enumerate(arr):
     # Scale in Z by our extrusion
     print('                    <scale x="1" y="1" z="{0:.5f}"/>'.format(br))
     # Turn the solid so its top face us towards us (nice for cylinders, cones, etc.)
-    print('                    <rotate x="1" y="1" z="0" angle="90" />')
+    print('                    <rotate x="1" y="0" z="0" angle="90" />')
     if (noise):
         print('                    <rotate x="{}" y="{}" z="0" angle="{}" />'.format(random.normal(1, 0.1), random.normal(1, 0.1), random.normal(0, 15)))
     # Draw the solid with its color

@@ -21,3 +21,6 @@ This is a command line utility to convert image files to the SceneGraph XML file
 ![Gradient](https://github.com/forsooth/im2xml/raw/master/examples/grad.png)
 ![Dragon](https://github.com/forsooth/im2xml/raw/master/examples/dragon.png)
 ![Sidescroller Game](https://github.com/forsooth/im2xml/raw/master/examples/sidescroll.png)
+![Sidescroller Game](https://github.com/forsooth/im2xml/raw/master/examples/blacksmith.png)
+![Sidescroller Game](https://github.com/forsooth/im2xml/raw/master/examples/city.png)
+![Sidescroller Game](https://github.com/forsooth/im2xml/raw/master/examples/sun.png)
